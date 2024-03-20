@@ -28,4 +28,4 @@
 
 РЕШЕНИЕ:
 
-ссылка на файл с чеклистом и багрепортом: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
+ссылка на файл с чеклистом: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
