@@ -15,4 +15,4 @@ Donation: 10.00 - 1000.00.
 РЕШЕНИЕ:
 
 
-ссылка на файл с классами эквивалентности и граничными значениями: https://docs.google.com/spreadsheets/d/16uvSHipYaBniDH077IyWJDnKAQuf7Iv8Sg8AC5eMaao/edit?usp=drive_link
+ссылка на файл с __*классами эквивалентности и граничными значениями*__: https://docs.google.com/spreadsheets/d/16uvSHipYaBniDH077IyWJDnKAQuf7Iv8Sg8AC5eMaao/edit?usp=drive_link
