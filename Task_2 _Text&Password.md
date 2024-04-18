@@ -28,4 +28,4 @@
 
 РЕШЕНИЕ:
 
-ссылка на файл с чек-листом: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
+ссылка на файл с чек-листом и __*граничными значениями для классов эквивалентности*__: https://docs.google.com/spreadsheets/d/1Nya3edoTBuhmrBPW2eF4t15-WXvX0zc695xUgztGF0k/edit?usp=drive_link
